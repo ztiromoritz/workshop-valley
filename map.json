@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zitro.uber.space\/setzling\/client\/"
+                 "value":"https:\/\/zitro.uber.space\/pico-8-workshop\/med.html"
                 }],
          "type":"tilelayer",
          "visible":false,
