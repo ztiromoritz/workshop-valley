@@ -51,6 +51,12 @@
          "id":15,
          "name":"plenum",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Plenum"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
